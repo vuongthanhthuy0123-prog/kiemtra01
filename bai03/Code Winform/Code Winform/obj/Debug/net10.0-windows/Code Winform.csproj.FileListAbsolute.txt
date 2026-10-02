@@ -1,0 +1,16 @@
+C:\Users\vuong\source\repos\Code Winform\Code Winform\bin\Debug\net10.0-windows\Code Winform.exe
+C:\Users\vuong\source\repos\Code Winform\Code Winform\bin\Debug\net10.0-windows\Code Winform.deps.json
+C:\Users\vuong\source\repos\Code Winform\Code Winform\bin\Debug\net10.0-windows\Code Winform.runtimeconfig.json
+C:\Users\vuong\source\repos\Code Winform\Code Winform\bin\Debug\net10.0-windows\Code Winform.dll
+C:\Users\vuong\source\repos\Code Winform\Code Winform\bin\Debug\net10.0-windows\Code Winform.pdb
+C:\Users\vuong\source\repos\Code Winform\Code Winform\obj\Debug\net10.0-windows\Code_Winform.Form1.resources
+C:\Users\vuong\source\repos\Code Winform\Code Winform\obj\Debug\net10.0-windows\Code Winform.csproj.GenerateResource.cache
+C:\Users\vuong\source\repos\Code Winform\Code Winform\obj\Debug\net10.0-windows\Code Winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuong\source\repos\Code Winform\Code Winform\obj\Debug\net10.0-windows\Code Winform.AssemblyInfoInputs.cache
+C:\Users\vuong\source\repos\Code Winform\Code Winform\obj\Debug\net10.0-windows\Code Winform.AssemblyInfo.cs
+C:\Users\vuong\source\repos\Code Winform\Code Winform\obj\Debug\net10.0-windows\Code Winform.csproj.CoreCompileInputs.cache
+C:\Users\vuong\source\repos\Code Winform\Code Winform\obj\Debug\net10.0-windows\Code Winform.dll
+C:\Users\vuong\source\repos\Code Winform\Code Winform\obj\Debug\net10.0-windows\refint\Code Winform.dll
+C:\Users\vuong\source\repos\Code Winform\Code Winform\obj\Debug\net10.0-windows\Code Winform.pdb
+C:\Users\vuong\source\repos\Code Winform\Code Winform\obj\Debug\net10.0-windows\Code Winform.genruntimeconfig.cache
+C:\Users\vuong\source\repos\Code Winform\Code Winform\obj\Debug\net10.0-windows\ref\Code Winform.dll
